@@ -1,4 +1,4 @@
-# MPESA STK Checkout Plugin
+# WooCommerce MPESA STK Checkout Plugin for WordPress Users
 WooCommerce STK MPESA Payment Checkout for Wordpress users running WooCommerce Payment Gateway
 
 The Demo Version has been hosted here https://plugins.killiansolutions.tech/shop
